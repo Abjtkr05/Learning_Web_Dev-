@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02b7e3b9-c6c7-4f0c-9fe7-16543fdc5d91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/.idea/LoginSignup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/script/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/script/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/script/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/script/signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginSignup/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/.idea/ToDo-Backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDo-Backend/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compiler/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compiler/.idea/compiler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compiler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compiler/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compiler/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compiler/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../compiler/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ps01/.idea/ps01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/.idea/request-to-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/public/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/public/html/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../request-to-server/public/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timer/.idea/timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/.idea/toDoExpress.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/.idea/loginSignup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/signup.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/loginSignup/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/tOdO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/tOdO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/tOdO/.idea/todo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/tOdO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/tOdO/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/tOdO/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/tOdO/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/todoList.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../toDoExpress/views/todoListPage.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-server/.idea/todo-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-server/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo/.idea/todo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/.idea/try.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/views/error.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../try/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ps01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps01/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ps01/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../timer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timer/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../timer/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../timer/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../timer/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HBKuCHYEDVoTHADZhj1MsZekmA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b7e3b9-c6c7-4f0c-9fe7-16543fdc5d91" name="Changes" comment="" />
+      <created>1667753256359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667753256359</updated>
+      <workItem from="1667753257585" duration="97000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    width: calc( 100vw - 20px );
+    height: 50px;
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+h3
+{
+    font-family: cursive;
+    font-size: 25px;
+    color: darkcyan;
+}
+
+button
+{
+    background: darkmagenta;
+    color: white;
+
+}
+
+.restaurentContainer
+{
+    width: 500px;
+    background: pink;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+img
+{
+    width: 300px;
+
+}
+.styleByJS
+{
+    background-color: pink;
+    display: flex;
+
+    width: 400px;
+}
