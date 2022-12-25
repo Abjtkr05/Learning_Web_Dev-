@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Java JS C C++ Python Compiler</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;0,900;1,400&family=Montserrat:ital,wght@0,400;0,700;0,900;1,400&display=swap"
+          rel="stylesheet">
+</head>
+<body>
+<div class="container">
+    <div class="head">
+        <div class="title">Type Your Code</div>
+        <div class="lang">
+            <select name="lang" id="lang">
+                <option value="0">Python</option>
+                <option value="4">JavaScript</option>
+                <option value="7">C</option>
+                <option value="77">CPP</option>
+                <option value="8">Java</option>
+            </select>
+        </div>
+    </div>
+    <div class="editor">
+        <p><textarea id='lineCounter' wrap='off' readonly>1.</textarea>
+            <textarea id='codeEditor' wrap='off'></textarea>
+        </p>
+    </div>
+    <div class="output">OUTPUT</div>
+    <div class="compile">
+        <button id="button">COMPILE</button>
+    </div>
+</div>
+<script src="main.js"></script>
+</body>
+</html>
